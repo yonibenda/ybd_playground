@@ -1,30 +1,29 @@
 # basic shell-bash comands :
 
 ```
-ll
-ls -l
-mkdir
-cd
-pwd
-rm
-mv
-cp
+ll      //list all files with information
+ls      //list all files with out information
+ls -l                                    
+mkdir   //Create the DIRECTORY(ies), if they do not already exist
+cd      //Change the shell working directory.
+pwd     //Print the name of the current working directory.
+rm      //Remove
+mv      //move
+cp      //Copy SOURCE to DEST
 
 ```
 
 
 ### helpful shell-bash commands :
 ```
-history
-grep <string> <path> // usful flags (r,i,n,color)
-find <path> -name <file name>
+
 ```
 ### information commands :
 ```
-top 
-jobs
-kill
-man
+top         //command not found
+jobs        //Display status of jobs.
+kill        //Send a signal to a job
+man         //command not found
  
 ```
 
