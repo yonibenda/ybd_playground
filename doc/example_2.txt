@@ -1,0 +1,6 @@
+total 13
+-rw-r--r-- 1 yonib 197609  240 Sep  6 14:49 example_1.txt
+-rw-r--r-- 1 yonib 197609    0 Sep  6 14:51 example_2.txt
+-rw-r--r-- 1 yonib 197609  958 Sep  6 14:37 git_cheatsheet.md
+-rw-r--r-- 1 yonib 197609 1145 Sep  6 14:37 shell_cheatsheet.md
+-rw-r--r-- 1 yonib 197609  905 Sep  6 14:37 vscode_cheatsheet.md
