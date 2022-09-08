@@ -1,5 +1,7 @@
 # ybd_playground
-in this reposetpry i will ptctis my :  
+in this repository i will practice my :  
 - git skills
 - shell/bash skills
 - python skills
+
+will start with campus exercise 
