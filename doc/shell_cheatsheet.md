@@ -9,6 +9,7 @@ pwd     //Print the name of the current working directory.
 rm      //Remove
 mv      //move
 cp      //Copy SOURCE to DEST
+less    //open the file for read - 'q'==close.'/'==serche , 'n'==next_serch, 'g'==top of file. 
 ```
 
 
@@ -23,7 +24,7 @@ kill        //Send a signal to a job
 man         //command not found
 ```
 
-# other bash capabilties
+# Other bash capabilties
 Pipe commands
 - example 1:  
   grep "string" from the history
