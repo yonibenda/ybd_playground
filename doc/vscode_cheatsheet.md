@@ -19,7 +19,3 @@ Recomend going over the shortcut reference and trying out all the defferent shor
 - 'Help'
 - 'Keybourd shortcut reference'
 - or just click <Ctrl>+'k' , <Ctrl>+'r' 
-
-  
-  
-  ![image](https://user-images.githubusercontent.com/81047407/188631987-14b04648-11d0-4b16-891f-48457e1deac1.png)

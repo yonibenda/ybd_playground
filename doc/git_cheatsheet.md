@@ -36,3 +36,9 @@ git log
 - https://www.youtube.com/watch?v=DVRQoVRzMIY&t=127s
 - https://www.youtube.com/watch?v=BCQHnlnPusY&t=13s
 
+## Close a github issue with commit
+A good way to close issues in github is with a commit.  
+This way when reviewing the closed issue will link to the commit that actually closed the issue
+```
+git commit -a -m "<commit message> close #<num>"
+```
