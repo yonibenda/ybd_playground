@@ -5,4 +5,4 @@ in this repository i will practice my :
 - python skills
 
 will start with campus exercise 
-/
+
