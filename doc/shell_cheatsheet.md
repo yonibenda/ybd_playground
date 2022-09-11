@@ -9,7 +9,7 @@ pwd     //Print the name of the current working directory.
 rm      //Remove
 mv      //move
 cp      //Copy SOURCE to DEST
-less    //open the file for read - 'q'==close.'/'==serche , 'n'==next_serch, 'g'==top of file. 
+less    //open the file for read - 'q'==close.'/'==search , 'n'==next_search, 'g'==top of file. 
 ```
 
 
@@ -24,7 +24,7 @@ kill        //Send a signal to a job
 man         //command not found
 ```
 
-# Other bash capabilties
+# other bash capabilties
 Pipe commands
 - example 1:  
   grep "string" from the history
@@ -38,6 +38,25 @@ Pipe commands
 
 Open/create txt file and insert some information to it:
 - example 1:
-  > echo hello_world > example_1.txt
+  > echo hello_world > example_1.txt 
+  //to amend end of file use ">>"
+  > echo hello_world >> example_1.txt
 - example 2:
   > ls -l > example_2.txt
+
+
+## opening file to reading
+```
+less <file path>
+```
+to navigate within the "less" file:
+```
+q           // quit
+gg          // top of file
+G <shift+g> // end of file
+b           // up
+<space>     // down
+`/`         // search example: /hello+<enter> will search for the word hello
+n           // Next - used for searching
+N <Shift+n> // Previous 
+```
